@@ -7,6 +7,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saybal&label=Profile%20views&color=0e75b6&style=flat" alt="saybal" /> </p>
 
+## 👋 About Me
+
+Hi there! I'm **Saybal Roy**, a passionate 💻 **Full Stack Web Developer** and 🎓 **Computer Science student** at **Sylhet Engineering College**. I specialize in building scalable, user-centric web applications using the **MERN stack**, along with modern tools like **Firebase Authentication** and **TailwindCSS**.
+
+I thrive on learning through building—and have recently completed two full-stack projects:
+
+- 🔹 **ChronoRelic** – A dynamic artifact tracking platform with secure auth and real-time data updates  
+- 🔹 **Workora** – A freelancing portal for posting and seeking jobs with responsive UI and Firebase-based login
+
+My mission is to deliver clean, efficient code, performant systems, and intuitive user experiences in every project I build.
+
+
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Saybal/Programming-Hero/tree/main/JavaScript/React%20JS"><strong>GitHub Repository</strong></a>
 
 - 📄 Know about my experiences <a href="https://1drv.ms/b/c/8e0d82e59dd86375/EaQ_NzcvhcNBsuVGxCpWLIoB6tZBI2z4idtVQpreopZFIg?e=QQnlLE"><strong>Click Here</strong></a>
