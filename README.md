@@ -1,3 +1,4 @@
+![Banner](https://i.ibb.co/LDjwW5FX/Saybal-Roy.gif)
 <h1 align="center">Hi 👋, I'm Saybal Roy</h1>
 <h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
 
