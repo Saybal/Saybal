@@ -37,7 +37,7 @@ My mission is to deliver clean, efficient code, performant systems, and intuitiv
 ## 🌟 Current Activities
 
 [![Next.js](https://img.shields.io/badge/Exploring-Next.js-blueviolet?style=for-the-badge&logo=next.js)](#)  
-[![Tourism](https://img.shields.io/badge/Working_on-Tourism_Website-green?style=for-the-badge&logo=world&logoColor=white)](#)
+[![Micro Freelancing Taks](https://img.shields.io/badge/Working_on-Tourism_Website-green?style=for-the-badge&logo=world&logoColor=white)](#)
 
 
 <h3 align="left">Languages and Tools:</h3>
