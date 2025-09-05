@@ -1,4 +1,4 @@
-![Banner]([https://github.com/Saybal/Saybal/blob/main/Banner.png](https://github.com/Saybal/Saybal/blob/main/Saybal%20Roy.png))
+![Banner](https://github.com/Saybal/Saybal/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Saybal Roy</h1>
 <h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
 
