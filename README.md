@@ -1,6 +1,6 @@
 ![Banner](https://github.com/Saybal/Saybal/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Saybal Roy</h1>
-<h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
+<h3 align="center">A passionate Front End developer from Bangladesh</h3>
 
 
 <img align="right" src="https://i.ibb.co/kgjJLmTC/Coding-Pixel-Jeff.gif" alt="coding" width="400px">
