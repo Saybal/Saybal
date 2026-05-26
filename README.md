@@ -1,4 +1,4 @@
-![Banner](https://github.com/Saybal/Saybal/blob/main/banner.png)
+![Banner](https://i.ibb.co.com/xKj8fKfv/Saybal-Roy.jpg)
 <h1 align="center">Hi 👋, I'm Saybal Roy</h1>
 <h3 align="center">A passionate Mern Stack developer from Bangladesh</h3>
 
